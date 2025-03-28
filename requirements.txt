@@ -1,0 +1,9 @@
+matplotlib==3.10.1
+mss==10.0.0
+numpy==2.2.4
+opencv_python==4.10.0.84
+opencv_python==4.11.0.86
+PyAutoGUI==0.9.54
+pygame==2.6.1
+torch==2.4.0
+torch==2.5.1+cu121
